@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm bit 😏
+Hi, I'm a OMUCT student enjoying connecting different technologies to build practical tools! My projects include a ROS 2 and web application for controlling a robot through a browser, as well as work with microcontrollers and C++.
+I like learning how systems work, solving problems step by step, and turning ideas into working software.
 
+📀 **Working** C Library for Robocon, communication system for robotics
+👀 **Interests** Web Development, Programming Languages, Robotics
 
 ## ⚛️ Portfolio
 <div align="center">
